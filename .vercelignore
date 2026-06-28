@@ -1,0 +1,11 @@
+# Raw source assets from Julia — ~600 MB, not used by the built site
+_source-assets/
+
+# Reinstalled / rebuilt by Vercel's build pipeline
+node_modules
+.next
+.git
+
+# Local-only tooling & logs
+scripts/
+*.log
