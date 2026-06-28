@@ -42,6 +42,27 @@ export function SiteFooter() {
           </div>
         </div>
       </div>
+
+      {/* build credit */}
+      <div className="border-t border-line">
+        <div className="wrap flex items-center justify-center py-5">
+          <p className="label !text-[0.68rem]">
+            Designed &amp; built by{" "}
+            {site.credit.url ? (
+              <a
+                href={site.credit.url}
+                target="_blank"
+                rel="noreferrer"
+                className="!text-ink-soft hover:!text-accent link-underline"
+              >
+                {site.credit.name}
+              </a>
+            ) : (
+              <span className="!text-ink-soft">{site.credit.name}</span>
+            )}
+          </p>
+        </div>
+      </div>
     </footer>
   );
 }

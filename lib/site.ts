@@ -11,6 +11,8 @@ export const site = {
   linkedinHandle: "in/julia-schvarzberg",
   resume: "/resume/Julia-Schvarzberg-Resume.pdf",
   year: new Date().getFullYear(),
+  // build credit shown in the footer — set `url` to link it to the DG Devs site
+  credit: { name: "DG Devs Inc.", url: "" },
 } as const;
 
 export const nav = [

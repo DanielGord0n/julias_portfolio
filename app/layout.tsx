@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     description:
       "Selected architectural works — museum, residential, computational, and pavilion design.",
     type: "website",
-    images: ["/images/triptych-museum/hero.webp"],
+    // social image is provided by app/opengraph-image.png (file convention)
   },
   twitter: { card: "summary_large_image" },
 };
