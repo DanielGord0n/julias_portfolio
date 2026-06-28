@@ -1,0 +1,102 @@
+{
+  "/images/about/portrait.webp": {
+    "w": 800,
+    "h": 800
+  },
+  "/images/ai-architecture/hero.webp": {
+    "w": 2600,
+    "h": 842
+  },
+  "/images/ai-architecture/stigmergy-1.webp": {
+    "w": 2600,
+    "h": 1191
+  },
+  "/images/corte-alta-duplexes/board-1.webp": {
+    "w": 2400,
+    "h": 1601
+  },
+  "/images/corte-alta-duplexes/drawings-1.webp": {
+    "w": 2400,
+    "h": 1440
+  },
+  "/images/corte-alta-duplexes/hero.webp": {
+    "w": 1920,
+    "h": 1080
+  },
+  "/images/corte-alta-duplexes/model-1.webp": {
+    "w": 770,
+    "h": 716
+  },
+  "/images/corte-alta-duplexes/model-2.webp": {
+    "w": 1024,
+    "h": 715
+  },
+  "/images/corte-alta-duplexes/model-3.webp": {
+    "w": 1024,
+    "h": 732
+  },
+  "/images/corte-alta-duplexes/render-2.webp": {
+    "w": 1920,
+    "h": 1080
+  },
+  "/images/serpentine-pavilion/catalog-1.webp": {
+    "w": 2200,
+    "h": 1424
+  },
+  "/images/serpentine-pavilion/catalog-2.webp": {
+    "w": 2200,
+    "h": 1424
+  },
+  "/images/serpentine-pavilion/hero.webp": {
+    "w": 1536,
+    "h": 696
+  },
+  "/images/serpentine-pavilion/money-photo.webp": {
+    "w": 2200,
+    "h": 1424
+  },
+  "/images/serpentine-pavilion/real-photo.webp": {
+    "w": 2000,
+    "h": 2678
+  },
+  "/images/triptych-museum/circulation-axon.webp": {
+    "w": 2000,
+    "h": 1296
+  },
+  "/images/triptych-museum/concept-diagram.webp": {
+    "w": 2200,
+    "h": 1424
+  },
+  "/images/triptych-museum/construction.webp": {
+    "w": 2200,
+    "h": 712
+  },
+  "/images/triptych-museum/cover.webp": {
+    "w": 1250,
+    "h": 838
+  },
+  "/images/triptych-museum/floor-plan-1.webp": {
+    "w": 2200,
+    "h": 1892
+  },
+  "/images/triptych-museum/floor-plan-2.webp": {
+    "w": 2200,
+    "h": 1816
+  },
+  "/images/triptych-museum/hero.webp": {
+    "w": 1536,
+    "h": 1024
+  },
+  "/images/triptych-museum/section-perspective.webp": {
+    "w": 2400,
+    "h": 1350
+  },
+  "/images/triptych-museum/section.webp": {
+    "w": 2200,
+    "h": 678
+  },
+  "/images/triptych-museum/site-plan.webp": {
+    "w": 2400,
+    "h": 1423
+  }
+}
