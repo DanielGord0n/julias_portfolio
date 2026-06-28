@@ -24,7 +24,7 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://julia-schvarzberg.vercel.app"),
+  metadataBase: new URL("https://juliasportfolio.vercel.app"),
   title: {
     default: `${site.name} — Architecture & Design Portfolio`,
     template: `%s — ${site.name}`,
