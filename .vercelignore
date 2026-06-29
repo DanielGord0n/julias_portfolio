@@ -9,3 +9,4 @@ node_modules
 # Local-only tooling & logs
 scripts/
 *.log
+_invoice/

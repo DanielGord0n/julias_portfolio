@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { nav, site } from "@/lib/site";
 
 export function SiteFooter() {
@@ -45,7 +46,14 @@ export function SiteFooter() {
 
       {/* build credit */}
       <div className="border-t border-line">
-        <div className="wrap flex items-center justify-center py-5">
+        <div className="wrap flex items-center justify-center gap-2.5 py-5">
+          <Image
+            src="/dg-logo.png"
+            alt="DG Devs Inc. logo"
+            width={20}
+            height={20}
+            className="opacity-75"
+          />
           <p className="label !text-[0.68rem]">
             Designed &amp; built by{" "}
             {site.credit.url ? (
